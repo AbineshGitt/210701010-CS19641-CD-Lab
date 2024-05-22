@@ -77,7 +77,6 @@ if (p)
 {
 t = pr[j].l;
 pr[j].l = pr[m].l;
-210701033 – ARAVIND S
 for (i = 0; i < z; i++)
 {
 l = strchr(pr[i].r, t);
